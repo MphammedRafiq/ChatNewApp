@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>com.googleusercontent.apps.857393366759-dnft2mb268mc25oebe2hsf399lasm964</string>
+			</array>
+		</dict>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>857393366759-dnft2mb268mc25oebe2hsf399lasm964.apps.googleusercontent.com</string>
+			</array>
+		</dict>
+	</array>
+	<key>GIDClientID</key>
+	<string>857393366759-dnft2mb268mc25oebe2hsf399lasm964.apps.googleusercontent.com</string>
+	<key>Info.plist File</key>
+	<string>/Users/mohammedrafiq/Documents/MyProject/Chat/Chat/Info.plist</string>
+	<key>UIAppFonts</key>
+	<array>
+		<string>FiraCode-Regular.ttf</string>
+		<string>FiraCode-Medium.ttf</string>
+		<string>FiraCode-Light.ttf</string>
+		<string>FiraCode-Bold.ttf</string>
+		<string>FiraCode-SemiBold.ttf</string>
+		<string>FiraCode-Retina.ttf</string>
+	</array>
+</dict>
+</plist>
